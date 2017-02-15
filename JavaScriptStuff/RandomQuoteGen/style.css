@@ -1,0 +1,59 @@
+@media all and (min-width: 320px) {
+
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%; 
+    height:992px;
+    
+  }
+  
+body{
+  width: 50%;
+  margin-left: 250px;
+   position: absolute; 
+  background-color:grey;
+  padding-bottom: 0;
+  }
+
+  
+
+.quote-text{
+  color: black;
+  margin-left: 100px;
+}
+
+#quoteDisplay{
+  color:black;
+  margin-top: 35px;
+  font-family: bold;
+  margin-left: 100px;
+}
+
+#newQuote{ 
+  padding: 15px 25px;
+  position: absolute; 
+  margin-top: 45px;
+  margin-left:165px;
+  margin-bottom: 50px;
+  border: solid;
+}
+    
+    
+    
+ 
+.thumbnail{
+  position: fixed; 
+  width: 50%;
+  height: 300px;
+  margin-top:10px;
+  margin-bottom:10px;
+  border: solid; }
+
+  }
+
+
+@media all and (min-width: 992px) {
+  
+}
+

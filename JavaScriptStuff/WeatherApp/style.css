@@ -1,0 +1,43 @@
+body {
+  
+  width: 100%;
+  background-color:#4080ff; 
+;
+  
+}
+
+#h1{
+  text-color: white;  
+  padding-top: 500px; 
+}
+
+background-image {
+  
+  opacity: .2;
+  filter: alpha(opacity=50);
+}
+
+#img1{
+  
+  
+}
+
+#btn-default{
+  
+  
+}
+
+#currentLocation {
+  margin-top: 10;
+  
+}
+
+#h2{
+  text-color: white;
+  
+}
+
+.logo{
+  text-color: red; 
+  
+}
